@@ -5,7 +5,7 @@ Check it out live at http://abstractowl.github.io/StartPage/ or download it for 
 
 ![Screenshot of StartPage in action](StartPage.png)
 
-# USAGE
+# Usage
 * Horizontal keys (<kbd>&larr;</kbd> <kbd>&rarr;</kbd>) -- Navigate through categories.
 * Vertical keys (<kbd>&darr;</kbd> <kbd>&uarr;</kbd>) -- Navigate through links in category.
 * Enter (<kbd>enter</kbd>) -- Save new category/link.
@@ -15,4 +15,3 @@ Check it out live at http://abstractowl.github.io/StartPage/ or download it for 
 ##TODO
 * Add "+" buttons for add category action
 * Make keyboard navigation more obvious
-* Make "Add Link" and "Add Category" open input box instead of prompt box
