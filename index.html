@@ -18,7 +18,7 @@
     appCache.addEventListener('updateReady', function () {
         if (appCache.status == appCache.UPDATEREADY) {
           appCache.swapCache();
-          if (confirm("A new version of StartPage is available. Reload?") {
+          if (confirm("A new version of StartPage is available. Reload?")) {
             window.location.reload();
           }
         }
